@@ -194,7 +194,7 @@ section {
 
 /*SESSÃO 1 DA PÁGINA 1*/
 section:nth-of-type(1) {
-    background-image: url("/assets/page1.png");
+    background-image: url("assets/page1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% auto;
@@ -233,7 +233,7 @@ section:nth-of-type(1) {
 
 /*SESSÃO 2 DA PÁGINA 1*/
 section:nth-of-type(2) {
-    background-image: url("/assets/page1.png");
+    background-image: url("assets/page1.png");
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: 100% auto;
@@ -384,14 +384,14 @@ section:nth-of-type(4) {
 }
 
 .image-1-page-2 {
-    background-image: url("/assets/page2_1.png");
+    background-image: url("assets/page2_1.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .image-2-page-2 {
-    background-image: url("/assets/page2_2.png");
+    background-image: url("assets/page2_2.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -399,7 +399,7 @@ section:nth-of-type(4) {
 
 
 .image-3-page-2 {
-    background-image: url("/assets/page2_3.png");
+    background-image: url("assets/page2_3.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -407,7 +407,7 @@ section:nth-of-type(4) {
 
 
 .image-4-page-2 {
-    background-image: url("/assets/page2_4.png");
+    background-image: url("assets/page2_4.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -512,7 +512,7 @@ DA IMAGEM E DO PARAGRÁFO.
 
 /*CONTAINER DA IMAGEM DA PÁGINA 3*/
 .container-image-3-page-3 {
-    background-image: url("/assets/page3.png");
+    background-image: url("assets/page3.png");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -625,7 +625,7 @@ section:nth-of-type(6) {
 }
 
 .image-2-page-4 {
-    background-image: url("/assets/page4_1.png");
+    background-image: url("assets/page4_1.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -633,7 +633,7 @@ section:nth-of-type(6) {
 
 
 .image-3-page-4 {
-    background-image: url("/assets/page2_3.png");
+    background-image: url("assets/page2_3.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -641,7 +641,7 @@ section:nth-of-type(6) {
 
 
 .image-4-page-4 {
-    background-image: url("/assets/page2_4.png");
+    background-image: url("assets/page2_4.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -764,14 +764,14 @@ section:nth-of-type(7) {
 }
 
 .image-1-page-5 {
-    background-image: url("/assets/page5_1.png");
+    background-image: url("assets/page5_1.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .image-2-page-5 {
-    background-image: url("/assets/page5_2.png");
+    background-image: url("assets/page5_2.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -779,7 +779,7 @@ section:nth-of-type(7) {
 
 
 .image-3-page-5 {
-    background-image: url("/assets/page5_3.png");
+    background-image: url("assets/page5_3.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -787,7 +787,7 @@ section:nth-of-type(7) {
 
 
 .image-4-page-5 {
-    background-image: url("/assets/page5_4.png");
+    background-image: url("assets/page5_4.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1169,7 +1169,7 @@ section:nth-of-type(11) {
     margin-top: -378px;
     padding: 0;
     border: none;
-    background-image: url("/assets/fundo-page-9.png");
+    background-image: url("assets/fundo-page-9.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -1228,7 +1228,7 @@ section:nth-of-type(12) {
     margin: 0;
     padding: 0;
     border: none;
-    background-image: url("/assets/backgroud-footer.png");
+    background-image: url("assets/backgroud-footer.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -1306,7 +1306,7 @@ section:nth-of-type(12) {
 /*INÍCIO DA RESPONSIVIDADE DA SESSÃO 2 DA PÁGINA 1*/
 @media screen and (max-width:1976px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1322,7 +1322,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1947px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1339,7 +1339,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1889px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1355,7 +1355,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1867px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1371,7 +1371,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1825px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1387,7 +1387,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1772px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1402,7 +1402,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1890px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1417,7 +1417,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1640px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1432,7 +1432,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1684px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1448,7 +1448,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1604px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1464,7 +1464,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1568px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1480,7 +1480,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1524px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1505,7 +1505,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1501px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1530,7 +1530,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1482px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1555,7 +1555,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1416px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1581,7 +1581,7 @@ section:nth-of-type(12) {
 
 @media screen and (max-width:1252px) {
     section:nth-of-type(2) {
-        background-image: url("/assets/page1.png");
+        background-image: url("assets/page1.png");
         background-repeat: no-repeat;
         background-position: bottom;
         background-size: 100% auto;
@@ -1984,7 +1984,7 @@ section:nth-of-type(12) {
     }
 
     .image-2-page-4 {
-        background-image: url("/assets/page4_1.png");
+        background-image: url("assets/page4_1.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -1992,7 +1992,7 @@ section:nth-of-type(12) {
 
 
     .image-3-page-4 {
-        background-image: url("/assets/page2_3.png");
+        background-image: url("assets/page2_3.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -2000,7 +2000,7 @@ section:nth-of-type(12) {
 
 
     .image-4-page-4 {
-        background-image: url("/assets/page2_4.png");
+        background-image: url("assets/page2_4.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
