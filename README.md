@@ -1,9 +1,10 @@
-
+<img src="https://github.com/Andson-Sillas/ARQUITETURA/blob/main/mockup-page-imobiliaria.png">
 
 
 
 🏡 Site de Arquitetura - Projeto Pessoal
 Este é um site institucional desenvolvido para um arquiteto fictício, com foco em portfólio, apresentação de serviços, projetos em destaque e contato. O projeto valoriza o design visual e a experiência do usuário, com uma navegação suave e estética moderna.
+
 
 🎯 Objetivo do Projeto
 Criar uma página moderna e responsiva para apresentação de um portfólio de arquitetura, destacando:
@@ -19,6 +20,7 @@ Informações de contato;
 Blog com artigos sobre arquitetura.
 
 
+
 🧰 Tecnologias Utilizadas
 HTML5: Estrutura semântica das páginas;
 
@@ -29,6 +31,7 @@ JavaScript: Interações simples como menu mobile e dropdown;
 AOS.js (Animate on Scroll): Biblioteca para animações durante a rolagem;
 
 Responsividade com Media Queries: Adaptado para diversos tamanhos de tela.
+
 
 
 📦 Estrutura das Páginas
@@ -49,12 +52,14 @@ Blog & Notícias com listas animadas;
 Seção de contato final com informações e ícones sociais.
 
 
+
 📁 Organização
 index.html: Página principal do site;
 
 style.css: Estilos globais, animações, responsividade e organização visual;
 
 /assets/: Pasta onde ficam as imagens e ícones utilizados no projeto.
+
 
 
 💡 Recursos e Funcionalidades
@@ -67,6 +72,7 @@ Menu mobile com botão hamburguer funcional;
 Sessões claramente segmentadas com background diferenciados;
 
 Responsivo para dispositivos móveis e desktops.
+
 
 
 🚀 Como Executar o Projeto
