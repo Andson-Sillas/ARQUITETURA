@@ -1,9 +1,8 @@
-<h1>Link do projeto abaixo</h1>
-<a href="https://andson-sillas.github.io/ARQUITETURA/">Clique aqui</a>
 <img src="https://github.com/Andson-Sillas/ARQUITETURA/blob/main/mockup-page-imobiliaria.png">
 <br>
 <h1>Link do projeto abaixo</h1>
 <a href="https://andson-sillas.github.io/ARQUITETURA/">Clique aqui</a>
+<br>
 <br>
 🏡 Site de Arquitetura - Projeto Pessoal
 Este é um site institucional desenvolvido para um arquiteto fictício, com foco em portfólio, apresentação de serviços, projetos em destaque e contato. O projeto valoriza o design visual e a experiência do usuário, com uma navegação suave e estética moderna.
